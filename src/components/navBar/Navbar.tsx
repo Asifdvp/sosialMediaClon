@@ -1,7 +1,5 @@
-import React from "react";
 import "./index.scss";
 import { Link } from "react-router-dom";
-
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
